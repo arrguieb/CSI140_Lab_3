@@ -1,0 +1,10 @@
+* { 
+    background-color: gray;
+    color: pink;
+    font-size: 25px;
+}
+
+table {
+    table-layout: fixed;
+    width: 1080px;
+}
